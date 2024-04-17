@@ -1,0 +1,99 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Navigation styles */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Main styles */
+  .main-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .main-container h2 {
+    color: #333;
+  }
+  
+  .main-container p {
+    color: #666;
+  }
+  
+  /* Form styles */
+  form {
+    margin-top: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form textarea {
+    width: 30%;
+    padding: 3px;
+    margin-bottom: 3px;
+    border: 5px solid #ccc;
+  }
+  
+  form textarea {
+    resize: vertical;
+  }
+  
+  form button[type="submit"] {
+    background-color: #39b30c;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #13027f;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  

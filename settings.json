@@ -1,0 +1,10 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "",
+    "files.associations": {
+        "*.module": "php"
+    }
+}
